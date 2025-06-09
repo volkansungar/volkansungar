@@ -39,7 +39,7 @@ const developer = {
 ---
 
 ## 🎯 Mevcut Projeler
-- 🌟 **[Compiler Design](link)** - Programming Languages Course Project
+- 🌟 **[Compiler Design](https://github.com/volkansungar/PROGLANG-PROJECT)** - Programming Languages Course Project
 
 ---
 
