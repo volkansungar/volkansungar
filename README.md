@@ -4,6 +4,6 @@
 ### Links
 
 - E-mail: [volkansungar@gmail.com](mailto:volkansungar@gmail.com)
-- LinkedIn: [in/volkansungar](https://linkedin.com/in/volkansunga)
+- LinkedIn: [in/volkansungar](https://linkedin.com/in/volkansungar)
 
 
